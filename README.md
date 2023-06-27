@@ -4,7 +4,7 @@ Hi 👋 My name is Oriol Gonzalez Farssac
 🖥️ Front End Developer
 -------------------
 
-I've been learning code since I was little and I'm always excited to start new projects and learn new skills.
+Welcome to my GitHub profile. I'm thrilled to have you here. Since I was little, I've had a deep passion for programming, and I am currently pursuing a career as a Front-End Developer.
 
 * 🌍  I'm based in Barcelona, Spain.
 * 🖥️  See my portfolio at [oriolgfarssac.com](http://oriolgfarssac.com)
