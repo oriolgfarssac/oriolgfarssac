@@ -1,7 +1,7 @@
 Hi 👋 My name is Oriol Gonzalez Farssac
 =======================================
 
-Front End Developer
+🖥️ Front End Developer
 -------------------
 
 I've been learning code since I was little and I'm always excited to start new projects and learn new skills.
