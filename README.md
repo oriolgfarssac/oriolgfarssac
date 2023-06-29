@@ -13,21 +13,6 @@ Welcome to my GitHub profile! I'm Oriol Gonzalez Farssac, an 18-year-old aspirin
 
 ### Skills
 
-<script>
-  function calculateAge(birthdate) {
-  const currentDate = new Date();
-  const [birthDay, birthMonth, birthYear] = birthdate.split(' ').map(Number);
-  const ageDate = new Date(birthYear, birthMonth - 1, birthDay);
-  let age = currentDate.getFullYear() - ageDate.getFullYear();
-  if (currentDate.getMonth() < birthMonth - 1 || (currentDate.getMonth() === birthMonth - 1 && currentDate.getDate() < birthDay)) {
-    age--;
-  }
-  return age;
-}
-
-const birthdate = '15 10 2004';
-const age = calculateAge(birthdate);
-</script>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
