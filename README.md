@@ -4,7 +4,7 @@ Hi 👋 My name is Oriol Gonzalez Farssac
 🖥️ Front End Developer
 -------------------
 
-Welcome to my GitHub profile! I'm Oriol Gonzalez Farssac, an 18-year-old aspiring to be a developer from Barcelona. I'm passionate about coding and eager to explore the vast world of software development. Feel free to explore my projects and repositories.
+Welcome to my GitHub profile! I'm Oriol Gonzalez Farssac, an 19-year-old aspiring to be a developer from Barcelona. I'm passionate about coding and eager to explore the vast world of software development. Feel free to explore my projects and repositories.
 
 * 🌍  I'm based in Barcelona, Spain.
 * 🖥️  See my portfolio at [oriolgfarssac.com](http://oriolgfarssac.com)
