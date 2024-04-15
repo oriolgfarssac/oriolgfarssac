@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm Oriol Gonzalez Farssac, an 19-year-old aspirin
 
 * 🌍  I'm based in Barcelona, Spain.
 * ✉️  You can contact me at [oriolgfarssac@gmail.com](mailto:oriolgfarssac@gmail.com)
+* My portfolio: <a href="https://oriolgfarssac.github.io/Portfolio/">My Portfolio</a>
 
 ### Skills
 
